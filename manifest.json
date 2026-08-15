@@ -1,0 +1,8 @@
+{
+  "short_name": "变好看",
+  "name": "变好看日志 App",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
